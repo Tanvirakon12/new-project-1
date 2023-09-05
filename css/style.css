@@ -1,0 +1,32 @@
+
+body{
+    background-image: linear-gradient(rgb(207, 197, 197),white);
+}
+
+header{
+    background-color: #e2136e !important;
+}
+.navbar{
+    background-color: #e2136e !important;
+
+}
+.f-logo{
+    font-size: 20px !important;
+}
+.nav-link:hover{
+    border: 2px dotted white !important;
+    border-radius: 35px !important;
+}
+
+
+
+/* main st  */
+.card{
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 6px 0px !important;
+}
+.card-text{
+    /* text-align: justify !important; */
+}
+.learn-more{
+    color: #e2136e !important;
+}
